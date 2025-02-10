@@ -1,5 +1,5 @@
 
-## Vite-Authentication Boilerplate
+# Vite-Authentication Boilerplate
 
 Easy-to-use Vite-Authentication Boilerplate
 - Authentication features - Email, Password
